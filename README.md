@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66BB6A&width=435&lines=Hello%2C+welcome!;My+name+is+Gustavo+Drews.;I+am+a+back-end+developer.)](https://git.io/typing-svg)
 ---
 
-### 📝 Let's connect! Feel free to reach oust
+### 📝 Let's connect! Feel free to reach out
 
 <div align="left">
     <a href="https://www.instagram.com/gustavosdrews/" target="_blank">
